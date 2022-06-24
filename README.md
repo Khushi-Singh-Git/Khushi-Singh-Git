@@ -19,6 +19,8 @@
 <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="c" width="50" height="40"/> </a>&nbsp <a href="https://www.javascript.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="c" width="40" height="40"/> </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khushi-Singh-Git&show_icons=true&locale=en&layout=compact" alt="..." /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Khushi-Singh-Git&show_icons=true&locale=en" alt="khushisingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Singh-Git&" alt="mypherhistamine" /></p>
