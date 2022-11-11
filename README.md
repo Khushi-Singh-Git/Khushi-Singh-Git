@@ -13,11 +13,11 @@
   Hi  🙋‍♀️, I'm Khushi Singh, An Electronics and Communication engineer from VIT, Vellore
   <br>
   <br>
-  👨🏻‍💻  I have deep interest in  AI, IoT, Web dev, and Data-Science
+  👨🏻‍💻  I have deep interest in  AI, Data-Science, Web development, and IoT
     
    🌱  I’m fluent with  **MongoDB, Express Framework, React, Node.js and Data Structures**
     
-   📫  How to reach me  **[khushi35b@gmail.com](mailto:khushi35b@gmail.com)**  _**, I check my email ;)**_
+   📫  How to reach me  **[khushi.itsks@gmail.com](mailto:khushi.itsks@gmail.com)**  _**, I check my email ;)**_
 
 </p>
 
@@ -48,7 +48,6 @@
       <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Singh-Git&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
- 
 </p>
 
 <hr>
