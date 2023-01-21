@@ -15,7 +15,7 @@
   <br>
   👨🏻‍💻  I have deep interest in  AI, Data-Science, Web development, and IoT
     
-   🌱  I’m fluent with  **MongoDB, Express Framework, React, Node.js and Data Structures**
+   🌱  I’m fluent with  **React, Node.js, MongoDB, Express Framework, and Data Structures**
     
    📫  How to reach me  **[khushi.itsks@gmail.com](mailto:khushi.itsks@gmail.com)**  _**, I check my email ;)**_
 
